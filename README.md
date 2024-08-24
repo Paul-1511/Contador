@@ -26,4 +26,4 @@ Este es un proyecto de una aplicación de contador avanzado desarrollado con Jet
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Paul-1511/Contador.git
